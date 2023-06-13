@@ -66,7 +66,7 @@
           "target" : "R2Shared"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -102,7 +102,7 @@
           "sdk" : "CoreServices.framework"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -136,7 +136,7 @@
           "target" : "R2Shared"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -177,7 +177,7 @@
           "target" : "R2Shared"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -202,7 +202,7 @@
           "target" : "R2Shared"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
