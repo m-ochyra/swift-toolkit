@@ -14,12 +14,12 @@ Pod::Spec.new do |s|
   ]
   s.source_files  = "Sources/LCP/**/*.{m,h,swift}"
   s.platform      = :ios
-  s.ios.deployment_target = "10.0"
+  s.ios.deployment_target = "11.0"
   s.xcconfig      = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2'}
   
   s.dependency 'R2Shared' 
 
   s.dependency 'ZIPFoundation', '<= 0.9.11' # 0.9.12 requires iOS 12+
-  s.dependency 'SQLite.swift', '~> 0.12.2'
+  s.dependency 'SQLite.swift', '~> 0.13.3'
   s.dependency 'CryptoSwift', '~> 1.3.8'
 end
