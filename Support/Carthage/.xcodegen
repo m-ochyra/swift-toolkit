@@ -83,7 +83,7 @@
           "target" : "ReadiumInternal"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -122,7 +122,7 @@
           "sdk" : "CoreServices.framework"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -159,7 +159,7 @@
           "target" : "ReadiumInternal"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -191,7 +191,7 @@
           "target" : "ReadiumInternal"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -205,7 +205,7 @@
       "type" : "framework"
     },
     "ReadiumInternal" : {
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -242,7 +242,7 @@
           "target" : "ReadiumInternal"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
@@ -270,7 +270,7 @@
           "target" : "ReadiumInternal"
         }
       ],
-      "deploymentTarget" : "10.0",
+      "deploymentTarget" : "11.0",
       "platform" : "iOS",
       "settings" : {
         "INFOPLIST_FILE" : "Info.plist",
